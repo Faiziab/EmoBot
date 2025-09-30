@@ -1,7 +1,7 @@
 # EmoBot: Real-Time Emotion Detection With Voice-Activated Assistant
 
 
-Welcome to the EmoBot project! 🤖🎤
+Welcome to the EmoBot project([Live Demo](https://huggingface.co/spaces/FaiziK/EmoBot))! 🤖🎤
 
 EmoBot is an innovative project that combines real-time emotion detection with a voice-activated assistant, creating an interactive and emotionally-aware AI companion. This repository contains all the code and resources you need to build your own EmoBot and explore the exciting world of emotion-aware artificial intelligence.
 
